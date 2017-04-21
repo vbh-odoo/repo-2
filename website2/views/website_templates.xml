@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="footer_default2" inherit_id="website.footer_default" customize_show="True" name="Automatic Footer 2">
+            <xpath expr="//ul[@id='products']" position="inside">
+                <li>Website 2 - Added</li>
+            </xpath>
+        </template>
+     </data>
+</openerp>
